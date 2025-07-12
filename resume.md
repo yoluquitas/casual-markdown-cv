@@ -1,94 +1,89 @@
 <img style="float:right;border-radius:50%;width:70px;padding:6px" src="Lucas-Leiva.jpeg" />
 
 <span style="float:right;padding:6px"> 
-  e-mail: lksleiva@gmail.com 
-  <br> mobile: +54 1131839193 <br> Location: Buenos Aires, Argentina
-  <br> [Linkedin:](https://www.linkedin.com/in/lucas-leiva-71907634)
-  <br> [Portfolio:](https://lucasleivaportfolio.wordpress.com)
+  e-mail: lksleiva@gmail.com  
+  <br> móvil: +54 1131839193  
+  <br> Ubicación: Buenos Aires, Argentina  
+  <br> [LinkedIn:](https://www.linkedin.com/in/lucas-leiva-71907634)  
+  <br> [Portafolio:](https://lucasleivaportfolio.wordpress.com)  
 </span>
 
 # Lucas Leiva  
 
-## Professional Summary
+## Perfil Profesional
 
-Analytical development engineer, well-versed in Multimedia, OTT streaming and DTV broadcasting architecture, solution development and deployment support. Valuable in review of proposals, making effective choices and contributing to entire development lifecycle.<br>Excellent communication, planning and decision-making skills.
+Ingeniero de desarrollo analítico con sólida experiencia en multimedia, transmisión OTT y arquitectura de radiodifusión DTV, desarrollo de soluciones y soporte en su implementación. Valioso en la revisión de propuestas, toma de decisiones efectivas y contribución en todo el ciclo de vida del desarrollo.  
+Excelentes habilidades de comunicación, planificación y toma de decisiones.
 
-## Skills:
-*	SW development. I had worked with the following languages:
-	JavaScript / Typescript / React / React Native; Python; C / C++ / C# (Unity); MATLAB; Java; Assembler
-*	Image/video/audio processing & analyses
-*	Streaming protocols (MPEG-DASH, HLS, CMAF, RTMP, ZIXI, SRT, UDP, etc.)
-*	Communication protocols (TCP/IP, HTTP, SNMP, etc.)
-*	Multimedia Codecs/containers/protocols (MPEG2, MPEG2-TS, SDI, H.264, HEVC, mp4, AAC, etc.)
-*	3Dof/6DoF (360 Video, 3D, OMAF, spatial audio, Volumetric video, VPCC glTF, Object-Base Audio, etc.)
-*	Digital TV systems (DVB, ATSC, ISDB-T / IP TV / ABR /DRMs / CDNs, etc)
-*	Telecommunications (RF, QAM, OFDM, etc.)
-*	AI (Computer Vision, Neural Networks, CNNs, Reinforcement Learning, SVM, etc.)
-*	Cloud Computing
-*	WEB 3 (Blockchain, Smart contracts, NFTs, IPFS, etc.)
-*	Spatial Computing / XR (AR/VR/MR) / Metaverse
-* Soft Skills (problem-solving, creative,teamworking, communication, conceptual thinking, decision-making) 
-*	Agile (Scrum, Kanban, Jira, Trello)
+## Habilidades
 
+* Desarrollo de software en:  
+  JavaScript / Typescript / React / React Native; Python; C / C++ / C# (Unity); MATLAB; Java; Assembler  
+* Procesamiento y análisis de imágenes/video/audio  
+* Protocolos de streaming (MPEG-DASH, HLS, CMAF, RTMP, ZIXI, SRT, UDP, etc.)  
+* Protocolos de comunicación (TCP/IP, HTTP, SNMP, etc.)  
+* Codecs, contenedores y protocolos multimedia (MPEG2, MPEG2-TS, SDI, H.264, HEVC, mp4, AAC, etc.)  
+* 3DoF/6DoF (Video 360, 3D, OMAF, audio espacial, video volumétrico, VPCC glTF, Audio Basado en Objetos, etc.)  
+* Sistemas de TV digital (DVB, ATSC, ISDB-T / IP TV / ABR / DRMs / CDNs, etc.)  
+* Telecomunicaciones (RF, QAM, OFDM, etc.)  
+* Inteligencia Artificial (visión computacional, redes neuronales, CNNs, aprendizaje por refuerzo, SVM, etc.)  
+* Computación en la nube  
+* Web 3 (Blockchain, contratos inteligentes, NFTs, IPFS, etc.)  
+* Computación Espacial / XR (AR/VR/MR) / Metaverso  
+* Habilidades blandas (resolución de problemas, creatividad, trabajo en equipo, comunicación, pensamiento conceptual, toma de decisiones)  
+* Metodologías ágiles (Scrum, Kanban, Jira, Trello)
 
-## WORK HISTORY
+## Experiencia Laboral
 
-#### Telecom Argentina - Senior Tech Architect (11/2021 - present) 
-*	R&D about different topics including XR (AR/VR/MR), Metaverse, Computer Vision, CDN Selectors, etc.
-*	Improvements, PoC design, and problem-solving of Multimedia Solutions on-premises and Cloud.
-*	Improvements on security of OTT Live streaming service to mitigate piracy.
-*	Analyses of metrics and measurement processes for QoE of live video (e.g., PSNR, VMAF, etc.).
-*	TCO analyses for the evolution of Multimedia Head End and CDN Technology (OTT and Broadcast). 
+#### Telecom Argentina – Arquitecto Técnico Senior (11/2021 - presente)  
+* I+D en temas como XR (AR/VR/MR), Metaverso, Visión Computacional, Selectores de CDN, etc.  
+* Diseño de PoC, mejoras y resolución de problemas en soluciones multimedia en local y en la nube.  
+* Mejoras en la seguridad del servicio OTT Live streaming para mitigar la piratería.  
+* Análisis de métricas y procesos de medición de QoE de video en vivo (PSNR, VMAF, etc.)  
+* Análisis TCO para evolución de Head End multimedia y tecnología CDN (OTT y Broadcast)
 
-#### Telcom Ventures De Argentina – Broadcast & Media Engineer (2016/11 - 11/2021) 
+#### Telcom Ventures De Argentina – Ingeniero Broadcast & Media (11/2016 - 11/2021)  
+* Homologación de STBs: elaboración de RFPs, pruebas, depuración y colaboración en el desarrollo/mejora del producto  
+* Operación, prueba y evaluación de equipos de TV como codificadores, multiplexores, transmisores, filtros, receptores, etc.  
+* Gestión y diseño de sistemas NMS para monitoreo y automatización  
+* Investigación y análisis de mejoras en sistemas de televisión digital
 
-*	Set Top Boxes Homologation: Elaboration of RFPs, testing, debugging and coworking on the development and improvement of the product.
-*	Operation, testing and evaluation of TV equipment such as encoders, multiplexers, transmitters, filters, receivers, etc
-* Management and design of NMS System for equipment monitoring and automation.
-*	Research and analysis of improvements in digital television system
+#### Network Broadcast – Ingeniero QA (12/2015 - 11/2016)  
+* Pruebas de STBs para TV Digital, principalmente estándar DVB  
+* Comunicación con proveedores internacionales para definir, adaptar y mejorar productos  
+* Co-desarrollo y personalización de software para STBs  
+* Investigación y desarrollo en OTT, IPTV y nuevas áreas de TV Digital
 
+#### MEGATECH – Especialista en Reparación (04/2015 - 08/2015)  
+* Reparación de equipos informáticos como notebooks, ultrabooks, tablets y AIOs
 
-#### Network Broadcast - QA Engineer (12/2015 - 11/2016)
+#### INTEL – Pasante Técnico (01/2013 - 01/2014)  
+* Armado de demostraciones tecnológicas, soporte técnico y gestión de inventario
 
-*	Test of Set Top Boxes for Digital TV, mainly for DVB standard.
-*	Continue communication with international suppliers to define, adapt and improve products.
-*	In house co-development and customizations of software for STBs
-*	Research and development in new areas of digital TV such as OTT, IPTV, etc.
+#### DESING XXI – Técnico Electrónico (01/2009 - 01/2013)  
+* Desarrollo, montaje y puesta en marcha de dispositivos para control de calidad y automatización industrial (hardware y software), programación de PLC
 
-#### MEGATECH - Repair Specialist (04/2015 - 08/2015)
+#### ELYTEL S.R.L – Diseñador HW de PCBs (01/2007 - 01/2008)  
+* Diseño de PCBs, montaje, pruebas de circuitos, reparaciones, etc.
 
-*	Repair of computer equipment such as notebooks, ultrabooks, tablets and AIOs.
+## Logros
 
-#### INTEL - Tech Intern (01/2013 - 01/2014)
-*	Assembly of demos on new technologies, technical support, Inventory Management.
+* Co-inventor del “Granómetro - contador automático de granos” (2021). Registro de patente bajo Modelo de Utilidad Compartida UBA-CONICET-UTN  
+* Congreso Argentino de Bioingeniería XX SABI 2015 – Trabajo presentado: “Análisis del tiempo de tránsito del pulso arterial por tonometría: aplicación en comunidad universitaria.”  
+* Becario en Grupo de Investigación en Bioingeniería (GIBIO), dependiente de la Secretaría de Ciencia y Tecnología de UTN FRBA (2015-2017)
 
-#### DESING XXI - Electronics Technician (01/2009 - 01/2013)
-*	Development, assembly and commissioning of devices for quality control and industrial automation (Hardware and Software), PLC programming.
+## Educación y Certificaciones
 
-#### ELYTEL S.R.L - HW PCB Designer (01/2007 - 01/2008)
-*	PCB design and assembly, circuit testing, repairs, etc.
+* U.T.N. Facultad Regional Buenos Aires (2009/22) - Bs. As., Argentina
+	* Título: Ingeniero electrónico
+ 	* Becario en Grupo de Investigación en Bioingeniería (GIBIO), dependiente de la Secretaría de
+Ciencia y Tecnología de la UTN FRBA -2015-2017 http://gibio.frba.utn.edu.ar/
+* E.T. N°1 Otto Krausel (02/2008)  - Bs. As., Argentina  
+	* Título: Técnico electrónico
+* Instituto Cambridge 2004-2008 - Bs. As., Argentina
+	* Título: Sexto año – Nivel Superior Instituto
+## Idiomas
 
-## ACCOMPLISHMENTS
-* Co-Inventor of Granometer-Automatic grain counter 2021. Patent registration application of Shared Utility Model UBA-CONICET-UTN. 
-* XX Argentine Congress of Bioengineering SABI 2015 -San Nicolás de los Arroyos. Work presented: “Analysis of the transit time of the arterial pulse by tonometry:
-application in the university community.” Leiva L., Schiaffi J., Alfonso M., Cymberknop
-L.J., Armentano R. L. 
-* Scholarship in Bioengineering Research Group (GIBIO), dependent on the Science and Technology Secretariat of the UTN FRBA -2015-2017.
-  
-<!--  
-## Projects: 
-* [Casual-Markdown](https://github.com/casualwriter/powerpage) - a lightweight markdown parser
-* [Powerpage](https://github.com/casualwriter/powerpage) - a lightweight browser for html applications
--->
+* Inglés (B2 intermedio superior)  
+* Español (nativo)
 
-## Education & Qualifications
-
-* AWS Certification (2021/12)
-* Oracle Certified Professional (2020/02)
-* Project Management Professional (PMP) (2018/10)
-* Bachelor of Computer Science (Sep 2004)
-* The Chinese University of Hong Kong (2000 - 2004)
-
-## Languages
-* English (B2 Upper-intermediate)
-* Spanish (native)
