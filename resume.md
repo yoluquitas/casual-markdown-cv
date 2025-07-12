@@ -34,11 +34,11 @@ Analytical development engineer, well-versed in Multimedia, OTT streaming and DT
 ## WORK HISTORY
 
 #### Telecom Argentina - Senior Tech Architect (11/2021 - present) 
-*	R&D about different topics including XR (AR/VR/MR), Metaverse and Computer Vision.
+*	R&D about different topics including XR (AR/VR/MR), Metaverse, Computer Vision, CDN Selectors, etc.
 *	Improvements, PoC design, and problem-solving of Multimedia Solutions on-premises and Cloud.
 *	Improvements on security of OTT Live streaming service to mitigate piracy.
 *	Analyses of metrics and measurement processes for QoE of live video (e.g., PSNR, VMAF, etc.).
-*	TCO analyses for the evolution of Multimedia Head End Technology (OTT and Broadcast). 
+*	TCO analyses for the evolution of Multimedia Head End and CDN Technology (OTT and Broadcast). 
 
 #### Telcom Ventures De Argentina – Broadcast & Media Engineer (2016/11 - 11/2021) 
 
